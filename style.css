@@ -1,0 +1,19 @@
+.v {
+    border: 1px solid red;
+}
+
+
+
+#console_line {
+    /* width: 100%; */
+    height: 300px;
+
+    display: flex;
+    background-color: red;
+    
+}
+
+#console_line>* {
+    width: 100%;
+    height: 25px;
+}
